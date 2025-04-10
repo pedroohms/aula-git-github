@@ -1,5 +1,6 @@
-public class TESTE {
+public class Teste {
     public static void main(String[] args) {
-        System.out.println("Exercício sendo concluído.");
+        int soma = 2 + 3;
     }
 }
+
